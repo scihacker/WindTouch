@@ -1,0 +1,11 @@
+D:\Workspace\VS\WindTouch\WindTouch\bin\Debug\WindTouch.exe
+D:\Workspace\VS\WindTouch\WindTouch\bin\Debug\WindTouch.pdb
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.csprojResolveAssemblyReference.cache
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.Properties.Resources.resources
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.csproj.GenerateResource.Cache
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.exe
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.pdb
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.WindTouch.resources
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.SerialSetting.resources
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.About.resources
+D:\Workspace\VS\WindTouch\WindTouch\obj\Debug\WindTouch.Dashboard.resources
