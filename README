@@ -1,4 +1,5 @@
-﻿这套串口调试程序WindTouch是我为我们WindWheel小组开发的方便调试智能车的程序，现公开下载。本工程是使用Visual Studio 2013建立，使用C#语言编写，如果需要打开必须安装Visual Studio 2013或更高版本。如果VS版本较低请新建工程，把我的工程中的关键文件复制到新工程中，并导入到工程中编译即可。
+![WindTouch](https://raw.githubusercontent.com/sjtudesigner/WindTouch/master/windtouch.png)
+这套串口调试程序WindTouch是我为我们WindWheel小组开发的方便调试智能车的程序，现公开下载。本工程是使用Visual Studio 2013建立，使用C#语言编写，如果需要打开必须安装Visual Studio 2013或更高版本。如果VS版本较低请新建工程，把我的工程中的关键文件复制到新工程中，并导入到工程中编译即可。
 配合这一程序必须在智能车的程序中写下如下代码(以下代码仅供参考，可删减功能)：
 /* Event.c 为串口接收中断处理程序 */
 void UARTRXHandler()
